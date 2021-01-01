@@ -45,7 +45,7 @@ Click [here](https://github.com/bgrose/Bradley-Grose-Resume) for a link to the m
 - [CSCE 215 - UNIX/Linux Fundamentals](https://github.com/bgrose/CSCE-215-UNIX-Linux-Fundamentals)
 - [CSCE 240 - Adv. Programming Tech](https://github.com/bgrose/CSCE-240-Adv-Programming-Tech)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgrose&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgrose&layout=compact)
 
 ---
 
