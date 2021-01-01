@@ -1,5 +1,5 @@
 ### Hey there, I'm Bradley!
-<a href="https://discord.gg/users/415557443599466507">
+<a href="https://discord.com/users/415557443599466507">
   <img align="left" alt="Bradley's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.instagram.com/bradgrose">
