@@ -41,8 +41,8 @@ Click [here](https://github.com/bgrose/Bradley-Grose-Resume) for a link to the m
 - [CSCE 145 - Algorithmic Designs I](https://github.com/bgrose/CSCE-145-Algorithmic-Design-I)
 - [CSCE 146 - Algorithmic Designs II](https://github.com/bgrose/CSCE-146-Algorithmic-Design-II)
 - [CSCE 211 - Digital Logic Design](https://github.com/bgrose/CSCE-211-Digital-Logic-Design)
-- [CSCE-212 - Intro to Comp Architecture](https://github.com/bgrose/CSCE-212-Intro-to-Comp-Architecture)
-- [CSCE-215 - UNIX/Linux Fundamentals](https://github.com/bgrose/CSCE-215-UNIX-Linux-Fundamentals)
+- [CSCE 212 - Intro to Comp Architecture](https://github.com/bgrose/CSCE-212-Intro-to-Comp-Architecture)
+- [CSCE 215 - UNIX/Linux Fundamentals](https://github.com/bgrose/CSCE-215-UNIX-Linux-Fundamentals)
 - [CSCE 240 - Adv. Programming Tech](https://github.com/bgrose/CSCE-240-Adv-Programming-Tech)
 ---
 
