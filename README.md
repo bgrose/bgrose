@@ -26,7 +26,7 @@
 
 **🔭 Work Experience**
 - Summer 2020 Tactical Software Engineer for General Dyanamics - Electric Boat
-- Fall 2020/Spring 2020 Computer Science Undergraduate TA for CSCE 145
+- Fall 2020/Spring 2021 Computer Science Undergraduate TA for CSCE 145
 - Incomeing Summer 2021 Data Science Intern for Koch Industries - Invisita
 
 ---
