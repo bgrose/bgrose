@@ -1,4 +1,4 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm Bradley!
 <a href="https://discord.gg/users/415557443599466507">
   <img align="left" alt="Bradley's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -12,18 +12,38 @@
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
+---
 
-<!--
-**bgrose/bgrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🏫 Education**
+- Univeristy of South Carolina Class of 2023
+- Major in Computer Science
+- Minors in Computer Science and Mathamatics
+- GPA 4.000/4.000
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔭 Work Experience**
+- Summer 2020 Tactical Software Engineer for General Dyanamics - Electric Boat
+- Fall 2020/Spring 2020 Computer Science Undergraduate TA for CSCE 145
+- Incomeing Summer 2021 Data Science Intern for Koch Industries - Invisita
+
+---
+
+**📝 Resume**
+
+Click [here](https://github.com/bgrose/Bradley-Grose-Resume) for a link to the my repository using LaTeX for my resume!
+
+---
+
+**🍎 CS Coursework Repos**
+-[CSCE 145 - Algorithmic Designs I](https://github.com/bgrose/CSCE-145-Algorithmic-Design-I)
+-[CSCE 146 - Algorithmic Designs II](https://github.com/bgrose/CSCE-146-Algorithmic-Design-II)
+-[CSCE 211 - Digital Logic Design](https://github.com/bgrose/CSCE-211-Digital-Logic-Design)
+-[CSCE-212 - Intro to Comp Architecture](https://github.com/bgrose/CSCE-212-Intro-to-Comp-Architecture)
+-[CSCE-215 - UNIX/Linux Fundamentals](https://github.com/bgrose/CSCE-215-UNIX-Linux-Fundamentals)
+-[CSCE 240 - Adv. Programming Tech](https://github.com/bgrose/CSCE-240-Adv-Programming-Tech)
+---
+
+**📫 Contact Me!**
+- Email bradley@grose.net
+- Phone (203) 733-0719
