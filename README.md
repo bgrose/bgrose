@@ -44,6 +44,8 @@ Click [here](https://github.com/bgrose/Bradley-Grose-Resume) for a link to the m
 - [CSCE 212 - Intro to Comp Architecture](https://github.com/bgrose/CSCE-212-Intro-to-Comp-Architecture)
 - [CSCE 215 - UNIX/Linux Fundamentals](https://github.com/bgrose/CSCE-215-UNIX-Linux-Fundamentals)
 - [CSCE 240 - Adv. Programming Tech](https://github.com/bgrose/CSCE-240-Adv-Programming-Tech)
+- [CSCE 247 - Software Engineering](https://github.com/bgrose/CSCE-247-Software-Engineering) *in progress
+- [CSCE 350 - Data Structures and Algorithms](https://github.com/bgrose/CSCE-350-Data-Structures) *in progress
 - [VEX ELO Ranking System](https://github.com/bgrose/VexELOSourceCode)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgrose&layout=compact)
