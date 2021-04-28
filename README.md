@@ -41,13 +41,16 @@ Click [here](https://github.com/bgrose/Bradley-Grose-Resume) for a link to the m
 **🍎 CS Work/Projects**
 - [CSCE 145 - Algorithmic Designs I](https://github.com/bgrose/CSCE-145-Algorithmic-Design-I)
 - [CSCE 146 - Algorithmic Designs II](https://github.com/bgrose/CSCE-146-Algorithmic-Design-II)
+- [CSCE 206 - Scientific Programming](https://github.com/bgrose/CSCE-206-Scientific-Programming) <em> *in progress </em>
 - [CSCE 211 - Digital Logic Design](https://github.com/bgrose/CSCE-211-Digital-Logic-Design)
 - [CSCE 212 - Intro to Comp Architecture](https://github.com/bgrose/CSCE-212-Intro-to-Comp-Architecture)
 - [CSCE 215 - UNIX/Linux Fundamentals](https://github.com/bgrose/CSCE-215-UNIX-Linux-Fundamentals)
 - [CSCE 240 - Adv. Programming Tech](https://github.com/bgrose/CSCE-240-Adv-Programming-Tech)
 - [CSCE 247 - Software Engineering](https://github.com/bgrose/CSCE-247-Software-Engineering) <em> *in progress </em>
+- [CSCE 311 - Operating Systems](https://github.com/bgrose/CSCE-311-Operating-Systems) <em> *in progress </em>
 - [CSCE 350 - Data Structures and Algorithms](https://github.com/bgrose/CSCE-350-Data-Structures) <em> *in progress </em>
 - [VEX ELO Ranking System](https://github.com/bgrose/VexELOSourceCode)
+- [Criminal Storage System](https://github.com/bgrose/CriminalStorageSystem)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgrose&layout=compact)
 
