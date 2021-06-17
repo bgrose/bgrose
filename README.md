@@ -19,7 +19,7 @@
 **🏫 Education**
 - Univeristy of South Carolina Class of 2023
 - Major in Computer Science
-- Minors in Computer Science and Mathamatics
+- Minors in Data Science and Mathamatics
 - GPA 4.000/4.000
 
 ---
