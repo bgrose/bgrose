@@ -51,6 +51,7 @@ Click [here](https://github.com/bgrose/Bradley-Grose-Resume) for a link to the m
 - [CSCE 350 - Data Structures and Algorithms](https://github.com/bgrose/CSCE-350-Data-Structures) 
 - [VEX ELO Ranking System](https://github.com/bgrose/VexELOSourceCode)
 - [Criminal Storage System](https://github.com/bgrose/CriminalStorageSystem)
+- [AI - Deep Learning - Data Science](https://github.com/bgrose/AI-DeepLearning-DataScience)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgrose&layout=compact)
 
