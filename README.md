@@ -20,7 +20,7 @@
 ***Univeristy of South Carolina Class of 2023***
 - Major in Computer Science | Minor in Data Science
 - GPA 4.000/4.000
-</br></br>
+</br>
 
 ***University of Liverpool***
 - Computer Science Program 
