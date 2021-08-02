@@ -57,6 +57,8 @@ Click [here](https://github.com/bgrose/Bradley-Grose-Resume) for a link to the m
 - [Criminal Storage System](https://github.com/bgrose/CriminalStorageSystem)
 - [AI - Deep Learning - Data Science](https://github.com/bgrose/AI-DeepLearning-DataScience)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bgrose)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 **📫 Contact Me!**
