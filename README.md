@@ -57,7 +57,7 @@ Click [here](https://github.com/bgrose/Bradley-Grose-Resume) for a link to the m
 - [Criminal Storage System](https://github.com/bgrose/CriminalStorageSystem)
 - [AI - Deep Learning - Data Science](https://github.com/bgrose/AI-DeepLearning-DataScience)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgrose&exclude_repo=CSCE-240-Adv-Programming-Tech,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgrose&exclude_repo=CSCE-240-Adv-Programming-Tech, https://github.com/bgrose/CSCE-215-UNIX-Linux-Fundamentals,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bgrose)](https://github.com/anuraghazra/github-readme-stats)
 
