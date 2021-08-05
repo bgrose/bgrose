@@ -58,9 +58,9 @@ Click [here](https://github.com/bgrose/Bradley-Grose-Resume) for a link to the m
 - [AI - Deep Learning - Data Science](https://github.com/bgrose/AI-DeepLearning-DataScience)
 - [Image Processing (OpenCV, Pillows, etc)](https://github.com/bgrose/ImageProcessing)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgrose&exclude_repo=CSCE-240-Adv-Programming-Tech,CSCE-215-UNIX-Linux-Fundamentals&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgrose&exclude_repo=CSCE-240-Adv-Programming-Tech,CSCE-215-UNIX-Linux-Fundamentals&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bgrose)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bgrose&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
