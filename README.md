@@ -32,6 +32,7 @@
 - Summer 2020 Tactical Software Engineer for General Dyanamics - Electric Boat
 - Fall 2020/Spring 2021 Computer Science Undergraduate TA for CSCE 145 and CSCE 146
 - Summer 2021 Data Science Intern for Koch Industries - INVISTA
+- Fall 2021 Data Science Co-Op for INVISTA
 - Incoming Summer 2022 Intern for Deloitte Risk and Financial Advisory Group
 
 ---
