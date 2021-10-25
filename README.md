@@ -39,7 +39,7 @@
 
 **📝 Resume**
 
-Click [here](https://github.com/bgrose/Bradley-Grose-Resume) for a link to the my repository using LaTeX for my resume!
+Click [here](https://github.com/bgrose/Bradley-Grose-Resume) for a link to the my repository using LaTeX for my resume! (Under Construction)
 
 ---
 
