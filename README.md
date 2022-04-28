@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/bradley-grose/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/bradley-279?si=F2Kjsr5ATcezboxLOJhGoQ">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 </br>
 
