@@ -40,7 +40,10 @@ Click [here](https://github.com/bgrose/Bradley-Grose-Resume) for a link to the m
 
 ---
 
-**🍎 CS Work/Projects**
+**🍎 CS Work/Projects** 
+
+***Lower Level CS***
+
 - [CSCE 145 - Algorithmic Designs I](https://github.com/bgrose/CSCE-145-Algorithmic-Design-I)
 - [CSCE 146 - Algorithmic Designs II](https://github.com/bgrose/CSCE-146-Algorithmic-Design-II)
 - [CSCE 206 - Scientific Programming](https://github.com/bgrose/CSCE-206-Scientific-Programming)
@@ -49,11 +52,25 @@ Click [here](https://github.com/bgrose/Bradley-Grose-Resume) for a link to the m
 - [CSCE 215 - UNIX/Linux Fundamentals](https://github.com/bgrose/CSCE-215-UNIX-Linux-Fundamentals)
 - [CSCE 240 - Adv. Programming Tech](https://github.com/bgrose/CSCE-240-Adv-Programming-Tech)
 - [CSCE 247 - Software Engineering](https://github.com/bgrose/CSCE-247-Software-Engineering) 
+
+
+***Upper Level CS***
+
 - [CSCE 311 - Operating Systems](https://github.com/bgrose/CSCE-311-Operating-Systems) 
 - [CSCE 330 - Programming Language Structures](https://github.com/bgrose/CSCE-330-Programming-Language-Structure) 
 - [CSCE 350 - Data Structures and Algorithms](https://github.com/bgrose/CSCE-350-Data-Structures) 
 - [CSCE 416 - Computer Networks](https://github.com/bgrose/CSCE-416-Computer-Networks)
-- [MATH 344 - Applied Linear Algebra](https://github.com/bgrose/MATH-344-Apl-Linear-Algebra)   
+- [MATH 344 - Applied Linear Algebra](https://github.com/bgrose/MATH-344-Apl-Linear-Algebra)  
+
+***Liverpool Classes***
+
+- [COMP 222 - Principles of Game Design](https://github.com/bgrose/COMP-222-Game-Design) 
+- [COMP 310 - Multi Agent Systems](https://github.com/bgrose/COMP-310-Multi-Agent-Systems) 
+- [COMP 324 - Complex Information Networks](https://github.com/bgrose/COMP-324-Complex-Info-Networks) 
+
+
+***Side Projects***
+
 - [VEX ELO Ranking System](https://github.com/bgrose/VexELOSourceCode)
 - [Criminal Storage System](https://github.com/bgrose/CriminalStorageSystem)
 - [AI - Deep Learning - Data Science](https://github.com/bgrose/AI-DeepLearning-DataScience)
@@ -65,4 +82,3 @@ Click [here](https://github.com/bgrose/Bradley-Grose-Resume) for a link to the m
 
 **📫 Contact Me!**
 - Email bradley@grose.net
-- Phone (203) 733-0719
